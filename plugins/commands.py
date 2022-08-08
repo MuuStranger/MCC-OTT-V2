@@ -23,10 +23,10 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('🤖 Updates', url='https://t.me/TeamEvamaria')
+                InlineKeyboardButton('⚒ MY OWNER', url='https://t.me/MOVIE_MEADIA')
             ],
             [
-                InlineKeyboardButton('ℹ️ Help', url=f"https://t.me/{temp.U_NAME}?start=help"),
+                InlineKeyboardButton('⚠️ HELP', url=f"https://t.me/{temp.U_NAME}?start=help"),
             ]
             ]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -45,10 +45,10 @@ async def start(client, message):
             InlineKeyboardButton('➕ Add Me To Your Groups ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('🤖 Updates', url='https://t.me/TeamEvamaria')
+            InlineKeyboardButton('⚒ MY OWNER', url='https://t.me/MOVIE_MEADIA')
             ],[
-            InlineKeyboardButton('ℹ️ Help', callback_data='help'),
-            InlineKeyboardButton('😊 About', callback_data='about')
+            InlineKeyboardButton('⚠️ HELP', callback_data='help'),
+            InlineKeyboardButton('⚙ ABOUT', callback_data='about')
             ],[
             InlineKeyboardButton('📀 𝗗𝗩𝗗 𝗨𝗣𝗗𝗔𝗧𝗘𝗦 📀',url='https://t.me/MM_DVD_UPDATES')
          ]]
@@ -93,10 +93,10 @@ async def start(client, message):
             InlineKeyboardButton('➕ Add Me To Your Groups ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('🤖 Updates', url='https://t.me/TeamEvamaria')
+            InlineKeyboardButton('⚒ MY OWNER', url='https://t.me/MOVIE_MEADIA')
             ],[
-            InlineKeyboardButton('ℹ️ Help', callback_data='help'),
-            InlineKeyboardButton('😊 About', callback_data='about')
+            InlineKeyboardButton('⚠️ HELP', callback_data='help'),
+            InlineKeyboardButton('⚙ ABOUT', callback_data='about')
         ],[
             InlineKeyboardButton('📀 𝗗𝗩𝗗 𝗨𝗣𝗗𝗔𝗧𝗘𝗦 📀',url='https://t.me/MM_DVD_UPDATES')
         ]]
