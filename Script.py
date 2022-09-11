@@ -11,8 +11,8 @@ class script(object):
 ✯  𝐓𝐞𝐚𝐦 ➪ <a href=https://t.me/Movie_Request_Group6>𝗠𝗼𝘃𝗶𝗲 𝗠𝗲𝗮𝗱𝗶𝗮</a>
 ★  𝐉𝐨𝐢𝐧 ★ 𝐒𝐡𝐚𝐫𝐞 ★ 𝐒𝐮𝐩𝐨𝐨𝐫𝐭 ★"""
     SOURCE_TXT = """<b>NOTE:</b>
-- Eva Maria is a open source project. 
-- Source - https://t.me/MOVIE_MEADIA  
+- Join our community. 
+- Channel - https://t.me/MOVIE_MEADIA  
 
 <b>DEVS:</b>
 - <a href=https://t.me/MOVIE_MEADIA>𝐌𝐎𝐕𝐈𝐄 𝐌𝐄𝐀𝐃𝐈𝐀</a>"""
