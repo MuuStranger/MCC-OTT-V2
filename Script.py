@@ -12,7 +12,7 @@ class script(object):
 ★  𝐉𝐨𝐢𝐧 ★ 𝐒𝐡𝐚𝐫𝐞 ★ 𝐒𝐮𝐩𝐨𝐨𝐫𝐭 ★"""
     SOURCE_TXT = """<b>NOTE:</b>
 - Join our community. 
-- Channel - https://t.me/MOVIE_MEADIA  
+- Channel - https://t.me/Movie_Collections_Channel  
 
 <b>DEVS:</b>
 - <a href=https://t.me/MOVIE_MEADIA>𝐌𝐎𝐕𝐈𝐄 𝐌𝐄𝐀𝐃𝐈𝐀</a>"""
