@@ -23,7 +23,7 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('⚒ MY OWNER', url='https://t.me/MOVIE_MEADIA')
+                InlineKeyboardButton('⚒ MY OWNER', url='https://t.me/MCC_OTT')
             ],
             [
                 InlineKeyboardButton('⚠️ HELP', url=f"https://t.me/{temp.U_NAME}?start=help"),
@@ -45,12 +45,12 @@ async def start(client, message):
             InlineKeyboardButton('➕ Add Me To Your Groups ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('⚒ MY OWNER', url='https://t.me/MOVIE_MEADIA')
+            InlineKeyboardButton('⚒ MY OWNER', url='https://t.me/MCC_OTT')
             ],[
             InlineKeyboardButton('⚠️ HELP', callback_data='help'),
             InlineKeyboardButton('⚙ ABOUT', callback_data='about')
             ],[
-            InlineKeyboardButton('📀 𝗗𝗩𝗗 𝗨𝗣𝗗𝗔𝗧𝗘𝗦 📀',url='https://t.me/MM_DVD_UPDATES')
+            InlineKeyboardButton('📀 𝗗𝗩𝗗 𝗨𝗣𝗗𝗔𝗧𝗘𝗦 📀',url='https://t.me/DVD_OTT_UPDATES_CHANNEL')
          ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -93,12 +93,12 @@ async def start(client, message):
             InlineKeyboardButton('➕ Add Me To Your Groups ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('⚒ MY OWNER', url='https://t.me/MOVIE_MEADIA')
+            InlineKeyboardButton('⚒ MY OWNER', url='https://t.me/MCC_OTT')
             ],[
             InlineKeyboardButton('⚠️ HELP', callback_data='help'),
             InlineKeyboardButton('⚙ ABOUT', callback_data='about')
         ],[
-            InlineKeyboardButton('📀 𝗗𝗩𝗗 𝗨𝗣𝗗𝗔𝗧𝗘𝗦 📀',url='https://t.me/MM_DVD_UPDATES')
+            InlineKeyboardButton('📀 𝗗𝗩𝗗 𝗨𝗣𝗗𝗔𝗧𝗘𝗦 📀',url='https://t.me/DVD_OTT_UPDATES_CHANNEL')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
