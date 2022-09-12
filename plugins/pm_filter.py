@@ -407,12 +407,12 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('➕ Add Me To Your Groups ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ], [
             InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('⚒ MY OWNER', url='https://t.me/MOVIE_MEADIA')
+            InlineKeyboardButton('⚒ MY OWNER', url='https://t.me/MCC_OTT')
         ], [
             InlineKeyboardButton('⚠️ HELP', callback_data='help'),
             InlineKeyboardButton('⚙ ABOUT', callback_data='about')
         ], [
-            InlineKeyboardButton('📀 𝗗𝗩𝗗 𝗨𝗣𝗗𝗔𝗧𝗘𝗦 📀',url='https://t.me/MM_DVD_UPDATES')
+            InlineKeyboardButton('📀 𝗗𝗩𝗗 𝗨𝗣𝗗𝗔𝗧𝗘𝗦 📀',url='https://t.me/DVD_OTT_UPDATES_CHANNEL')
        ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
@@ -440,7 +440,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "about":
         buttons = [[
-            InlineKeyboardButton('⚒ MY OWNER', url='https://t.me/MOVIE_MEADIA'),
+            InlineKeyboardButton('⚒ MY OWNER', url='https://t.me/MCC_OTT'),
             InlineKeyboardButton('💖 Source', callback_data='source')
         ], [
             InlineKeyboardButton('🏠 Home', callback_data='start'),
