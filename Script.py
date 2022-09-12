@@ -15,7 +15,7 @@ class script(object):
 - Channel - https://t.me/Movie_Collections_Channel  
 
 <b>DEVS:</b>
-- <a href=https://t.me/MOVIE_MEADIA>𝐌𝐎𝐕𝐈𝐄 𝐌𝐄𝐀𝐃𝐈𝐀</a>"""
+- <a href=https://t.me/MCC_OTT>𝐌𝐂𝐂 𝐎𝐓𝐓</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
