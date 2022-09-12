@@ -5,10 +5,10 @@ class script(object):
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
 ✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/MccAssistBot>𝐌𝐂𝐂 𝐎𝐰𝐧𝐞𝐫</a>
-✯  𝐉𝐎𝐈𝐍 ➪ <a href=https://t.me/joinchat/Cl6Byc2RvPlkODA1>𝐌𝐌 𝐁𝐚𝐜𝐤𝐮𝐩</a>
-✯  𝐉𝐎𝐈𝐍 ➪ <a href=https://t.me/MM_ROCKERS>𝐌𝐌 𝐑𝐨𝐜𝐤𝐞𝐫𝐬</a>
-✯  𝐉𝐎𝐈𝐍 ➪ <a href=https://t.me/MM_ARCHIVES>𝐌𝐌 𝐀𝐫𝐜𝐡𝐢𝐯𝐞𝐬</a>
-✯  𝐓𝐞𝐚𝐦 ➪ <a href=https://t.me/Movie_Request_Group6>𝗠𝗼𝘃𝗶𝗲 𝗠𝗲𝗮𝗱𝗶𝗮</a>
+✯  𝐉𝐎𝐈𝐍 ➪ <a href=https://t.me/Movie_Collections_Channel>𝐁𝐨𝐭 𝐔𝐩𝐝𝐚𝐭𝐞 𝐂𝐡𝐚𝐧𝐧𝐞𝐥</a>
+✯  𝐉𝐎𝐈𝐍 ➪ <a href=https://t.me/Movie_Collections_Group>𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐆𝐫𝐨𝐮𝐩</a>
+✯  𝐉𝐎𝐈𝐍 ➪ <a href=https://t.me/DVD_OTT_UPDATES_CHANNEL>𝐃𝐕𝐃 𝐔𝐩𝐝𝐚𝐭𝐞𝐬</a>
+✯  𝐓𝐞𝐚𝐦 ➪ <a href=https://t.me/MCC_OTT>𝐌𝐂𝐂 𝐎𝐓𝐓</a>
 ★  𝐉𝐨𝐢𝐧 ★ 𝐒𝐡𝐚𝐫𝐞 ★ 𝐒𝐮𝐩𝐨𝐨𝐫𝐭 ★"""
     SOURCE_TXT = """<b>NOTE:</b>
 - Join our community. 
