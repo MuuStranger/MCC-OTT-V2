@@ -4,7 +4,7 @@ class script(object):
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/MOVIE_MEADIA>𝐌𝐨𝐯𝐢𝐞 𝐌𝐞𝐚𝐝𝐢𝐚</a>
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/MccAssistBot>𝐌𝐂𝐂 𝐎𝐰𝐧𝐞𝐫</a>
 ✯  𝐉𝐎𝐈𝐍 ➪ <a href=https://t.me/joinchat/Cl6Byc2RvPlkODA1>𝐌𝐌 𝐁𝐚𝐜𝐤𝐮𝐩</a>
 ✯  𝐉𝐎𝐈𝐍 ➪ <a href=https://t.me/MM_ROCKERS>𝐌𝐌 𝐑𝐨𝐜𝐤𝐞𝐫𝐬</a>
 ✯  𝐉𝐎𝐈𝐍 ➪ <a href=https://t.me/MM_ARCHIVES>𝐌𝐌 𝐀𝐫𝐜𝐡𝐢𝐯𝐞𝐬</a>
